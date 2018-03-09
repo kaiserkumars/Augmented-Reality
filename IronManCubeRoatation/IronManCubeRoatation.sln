@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronManCubeRoatation", "Assembly-CSharp.csproj", "{04FBD842-5648-737F-0EC1-77DDC965EB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronManCubeRoatation", "Assembly-CSharp-Editor.csproj", "{D25DB235-FFA4-A0A1-7A81-35F425637DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FBD842-5648-737F-0EC1-77DDC965EB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FBD842-5648-737F-0EC1-77DDC965EB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FBD842-5648-737F-0EC1-77DDC965EB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FBD842-5648-737F-0EC1-77DDC965EB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25DB235-FFA4-A0A1-7A81-35F425637DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25DB235-FFA4-A0A1-7A81-35F425637DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25DB235-FFA4-A0A1-7A81-35F425637DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25DB235-FFA4-A0A1-7A81-35F425637DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal
